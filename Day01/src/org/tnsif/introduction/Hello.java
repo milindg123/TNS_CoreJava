@@ -1,5 +1,4 @@
 package org.tnsif.introduction;
-
 public class Hello {
 
 	public static void main(String[] args) {
