@@ -1,5 +1,6 @@
-package org.tnsif.operators;
+// Program to demonstrate the increment or decrement operator
 
+package org.tnsif.operators;
 public class Increment_DecrementOperators {
 
 	public static void main(String[] args) {
@@ -11,9 +12,9 @@ public class Increment_DecrementOperators {
 		
 		System.out.println("\nResult 2 is :");
 		int res2 = x-- + --y;
-		System.out.println(res1);
-		System.out.println(x); 
-		System.out.println(y); 
+		System.out.println(res1); //24 + 6 //30
+		System.out.println(x); //23
+		System.out.println(y); //6
 
 	}
 
