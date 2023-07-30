@@ -9,7 +9,7 @@ public class Employee {
 	float salary;
 	String department;
 	
-	// method declaration and defination
+	// method declaration and definition
 	
 	void display()
 	{
