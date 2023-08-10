@@ -1,4 +1,5 @@
 // Program to demonstrate of an Interface
+// Interface is used for to achieve abstraction 
 package org.tnsif.interfaceexecutor;
 
 public class IntefaceExecutor {
@@ -17,7 +18,7 @@ public class IntefaceExecutor {
 		i.status();
 		
 		
-		System.out.println("\n\n*********** Multiple Inheritance by using Interface");
+		System.out.println("\n\n*********** Multiple Inheritance by using Interface ***********");
 		Human h = new Human();
 		h.showDrink();
 

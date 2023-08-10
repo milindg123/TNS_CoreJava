@@ -5,6 +5,7 @@ package org.tnsif.finalkeyword;
 // Parent class
 
 // Final class can't be inherit to child class
+
 //public final class Laptop
 
 public class Laptop {
